@@ -1,5 +1,5 @@
 # netflix-data-analysis
-Data cleaning, transformation, and analysis of Netflix titles dataset using Python and SQL
+The purpose of this project is to show my work with SQL and Python in cleaning messy data and organizing it in a more useful format.
 
 Netflix Data Analysis
 
